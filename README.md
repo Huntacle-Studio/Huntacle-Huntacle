@@ -45,18 +45,31 @@
 ## 📁 项目结构
 
 Huntacle/
+
 ├── Assets/
+
 │ ├── Scripts/ # 主要游戏逻辑脚本
+
 │ │ ├── Core/ # 游戏状态机、网络管理器、事件系统
+
 │ │ ├── Characters/ # 角色控制器、状态、属性系统
+
 │ │ ├── UI/ # 用户界面逻辑
+
 │ │ └── Utilities/ # 通用工具类、扩展方法
+
 │ ├── Art/ # 美术资源 (模型、纹理、动画)
+
 │ ├── Audio/ # 音效与音乐资源
+
 │ ├── Prefabs/ # 预制体
+
 │ └── Scenes/ # 游戏场景
+
 ├── Packages/ # Unity包管理
+
 ├── ProjectSettings/ # Unity项目设置
+
 └── README.md # 项目说明文件
 
 
